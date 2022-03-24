@@ -14,6 +14,4 @@ Simples app que renderiza dados de uma mock data, gera menus dinamicamente que f
 4) npm run dev || yarn dev;
 5) Abrir [http://localhost:3000](http://localhost:3000) no browser.
 
-## Demo
-
-https://our-menu-1.netlify.app/
+## EM PROGRESSO
