@@ -9,7 +9,7 @@ Simples app que renderiza dados de uma mock data, gera menus dinamicamente que f
 ## Inicializar app
 
 1) Clonar repositório;
-2) cd birthdays-app/
+2) cd menu-app/
 3) npm install || yarn install;
 4) npm run dev || yarn dev;
 5) Abrir [http://localhost:3000](http://localhost:3000) no browser.
